@@ -1,3 +1,4 @@
 pytelegrambotapi
 Flask
-pytube==15.0.0
+pytube==12.1.0
+requests
