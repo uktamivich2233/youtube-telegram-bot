@@ -1,7 +1,7 @@
 import telebot
 
 # 2. Tokenni o'rnatish (Sizning rasmingizdagi token bu yerda)
-TOKEN = 8263552008:AAHGjEl2-pU8wEufhkOgu3oQUSxhzY6Iooo
+TOKEN = "8263552008:AAHGjEl2-pU8wEufhkOgu3oQUSxhzY6Iooo"
 
 # 3. Bot obyektini yaratish
 bot = telebot.TeleBot(TOKEN)
